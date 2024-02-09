@@ -1,0 +1,18 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #f9bbff;
+  color: rgb(0, 0, 0);
+  font-weight: 600;
+  padding: 0px 20px;
+}
+
+footer a {
+  display: flex;
+  align-items: center;
+}

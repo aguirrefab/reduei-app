@@ -1,0 +1,37 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #bf2dcc;
+  color: white;
+  font-weight: 600;
+  padding: 0px 20px;
+}
+
+.brand-app {
+  width: 10%;
+}
+
+.menu-app {
+  width: 75%;
+}
+
+.social-media {
+  width: 15%;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.social-media span {
+  margin-right: 10px;
+}
